@@ -1,5 +1,5 @@
 <?php
-//error_reporting(0);
+//Requires
 require_once "models/gestorSlide.php";
 require_once "models/gestorArticulos.php";
 require_once "models/gestorGaleria.php";
